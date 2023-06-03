@@ -1,0 +1,6 @@
+Marker2D
+Label
+Actor
+Area2D
+CollisionShape2D
+CharacterBody2D

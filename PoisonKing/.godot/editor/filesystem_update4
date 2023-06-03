@@ -1,0 +1,5 @@
+res://Scenes/Actors/Actors.gd
+res://Scenes/Actors/Player.gd
+res://Scenes/Actors/player.tscn
+res://Scenes/Object/bullet.tscn
+res://Scenes/Object/bullet.gd

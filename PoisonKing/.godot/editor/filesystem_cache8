@@ -1,0 +1,12 @@
+2a60927148abd1d33b818b535e306557
+::res://::1685814524
+icon.svg::CompressedTexture2D::4285168012358629871::1685813894::1685813902::1::::<><>::
+::res://Scenes/::1685817149
+::res://Scenes/Actors/::1685817034
+Actors.gd::GDScript::-1::1685814233::0::1::::Actor<>CharacterBody2D<>::
+Player.gd::GDScript::-1::1685817034::0::1::::<>Actor<>::
+player.tscn::PackedScene::3602268094165100220::1685814707::0::1::::<><>::res://Scenes/Actors/Player.gd
+::res://Scenes/Object/::1685817034
+bullet.gd::GDScript::-1::1685816865::0::1::::<>Actor<>::
+bullet.tscn::PackedScene::1745672831594869667::1685817034::0::1::::<><>::res://Scenes/Object/bullet.gd
+::res://Scenes/Screens/::1685817149
